@@ -83,7 +83,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Container(
               padding: EdgeInsets.symmetric(horizontal: 125, vertical: 15),
               decoration: BoxDecoration(color: Colors.deepPurpleAccent,
-                  borderRadius: BorderRadius.circular(17)),
+                  borderRadius: BorderRadius.circular(18)),
               child: Text('Sign In', style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 18),),
             ),
             SizedBox(height: 25),
